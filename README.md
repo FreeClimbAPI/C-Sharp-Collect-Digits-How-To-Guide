@@ -1,4 +1,4 @@
-# C# - Get Digits Tutorial
+# C# - Collect Digits Tutorial
 
 This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/collect-digits-1#section-c). Specifically, the project will:
 
